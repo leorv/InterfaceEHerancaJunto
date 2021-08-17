@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31606.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceEHerancaJunto", "InterfaceEHerancaJunto\InterfaceEHerancaJunto.csproj", "{C9DA81E3-943F-43D0-B818-34E8390C905D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9DA81E3-943F-43D0-B818-34E8390C905D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9DA81E3-943F-43D0-B818-34E8390C905D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9DA81E3-943F-43D0-B818-34E8390C905D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9DA81E3-943F-43D0-B818-34E8390C905D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {146B2922-5F85-44AF-8360-2748ADF61A87}
+	EndGlobalSection
+EndGlobal
